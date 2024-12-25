@@ -1,2 +1,2 @@
 # Power-BI-dashboards
-Power BI dashboards 
+This repository showcases a collection of dashboards highlighting my work across various projects. Each dashboard translates complex datasets into clear and actionable insights, demonstrating my skills in data analysis and visualisation. The topics range from customer behaviour to marketing performance, reflecting my ability to design intuitive and impactful visualisations. Explore these dashboards to see how I bring data to life.
